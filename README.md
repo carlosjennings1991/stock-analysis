@@ -11,3 +11,5 @@ The pretext for this analysis is imagining a recent college grad with a degree i
 ## Stock Performance
 
 Turns out 2017 was a pretty good year for these 12, and 2018? - Not so much.
+
+![stocks from both years]()
