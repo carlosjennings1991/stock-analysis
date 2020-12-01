@@ -12,4 +12,4 @@ The pretext for this analysis is imagining a recent college grad with a degree i
 
 Turns out 2017 was a pretty good year for these 12, and 2018? - Not so much.
 
-![stocks from both years]()
+![stocks from both years](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/Stocks_2017_and_2018.png)
