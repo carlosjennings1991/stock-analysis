@@ -45,3 +45,7 @@ This is a sum of the number of bought & sold shares for the 252 trading days on 
 This is the difference in the closing price for the stock on the last day of trading for the year in relation to the closing price of the stock on the first day of trading for the year ((last price / first price) - 1)). 
 
 ![YoY Return example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/YoY%20return.png)
+
+---
+
+## Script Performance
