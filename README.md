@@ -26,4 +26,10 @@ First glance tells us a few things.
 
 ### Stock Performance - The Table Itself
 
-This consists of three columns (the ticker, the total daily volume, and the YoY return). These three values are then shown for all 12 green stocks in question, giving us a table of 36 cells. 
+This consists of three columns (the ticker, the total daily volume, and the YoY return). These three values are then shown for all 12 green stocks in question, giving us a table of 36 cells. Let's go over each item in detail. 
+
+#### The Ticker
+
+This is just the abreviation of the company name, and is used to save space. 
+
+
