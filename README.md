@@ -68,11 +68,16 @@ Given readability is very important in coding, this can't be understated. Concep
 
 As for performance, the script does it pretty quickly. 
 
-## 2017 speed: 
+### 2017 speed: 
 
 ![2017 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_Original_Code_2017.png)
 
-## 2018 speed
+### 2018 speed
 ![2018 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_Original_Code_2018.png)
+
+It processes 3013 rows of information totalling 24,096 cells in under a second. Not bad. However, it could be better. 
+
+---
+
 
 
