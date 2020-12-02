@@ -78,6 +78,6 @@ As for performance, the script does it pretty quickly.
 It processes 3013 rows of information totalling 24,096 cells in under a second. Not bad. However, it could be better. 
 
 ---
-
+w
 
 
