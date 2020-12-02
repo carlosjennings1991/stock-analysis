@@ -90,11 +90,27 @@ The updated script, found here - [modified script](https://github.com/carlosjenn
 
 ![2018 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-The updated script processes everything much faster, roughly 5x as fast as the original. 
+The updated script processes everything much faster, roughly 5x as fast as the original. However, the updated code is longer and *more difficult to read*, which can frustrate junior developers and makes transferring the code to someone else more difficult.
 
 ---
 
+## Conclusion
 
+The two scripts accomplish their goal, to showcase and format the 12 stocks for two years, and they both do it quickly. However, each has their pros and cons. 
+
+### Conclusion - Original Script
+
+- Pro: It gets the job done
+- Pro: It's easy to read
+- Con: It takes longer
+- Con: It would probably perform poorly with a much larger data set
+
+### Conclusion - Modified Script
+
+- Pro: It gets the job done
+- Pro: It's very quick
+- Pro: It would probably perform well with a much larger data set
+- Con: It's more difficult to read
 
 
 
