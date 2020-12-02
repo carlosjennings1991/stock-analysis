@@ -18,7 +18,7 @@ Here are those two years shown side by side
 
 First glance tells us a few things. 
 
-- 2017 was a pretty good year for these twelve
-- 2018 was a pretty *bad* year for these twelve
-- Enphase Energry Inc. (ENPH) has the strongest performance
+- **2017 was a pretty good year for these twelve
+- **2018 was a pretty *bad* year for these twelve
+- **Enphase Energry Inc. (ENPH) has the strongest performance
 
