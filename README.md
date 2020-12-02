@@ -49,3 +49,8 @@ This is the difference in the closing price for the stock on the last day of tra
 ---
 
 ## Script Performance
+
+The initial script, found here - https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/Initial%20Script.bas, should be noted for two things. 
+
+- It gets the job done
+- It's easy to read
