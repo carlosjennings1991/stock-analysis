@@ -48,7 +48,7 @@ This is the difference in the closing price for the stock on the last day of tra
 
 ---
 
-## Script Performance
+## Original Script Performance
 
 The initial script, found here - [original_script](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/Initial%20Script.bas), should be noted for two things. 
 
@@ -78,6 +78,7 @@ As for performance, the script does it pretty quickly.
 It processes 3013 rows of information totalling 24,096 cells in under a second. Not bad. However, it could be better. 
 
 ---
+## Updated Script Performance
 
 The updated script, found here - [modified script](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/Modified%20Script.bas) also gets the job done, and much faster. The below screenshots show the times for the years in question. 
 
@@ -89,6 +90,7 @@ The updated script, found here - [modified script](https://github.com/carlosjenn
 
 ![2018 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
+The updated script processes everything much faster, roughly 3x as fast as the original. 
 
 
 
