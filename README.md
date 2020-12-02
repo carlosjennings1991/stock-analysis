@@ -79,5 +79,20 @@ It processes 3013 rows of information totalling 24,096 cells in under a second. 
 
 ---
 
+The updated script, found here - [modified script](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/Modified%20Script.bas) also gets the job done, and much faster. The below screenshots show the times for the years in question. 
+
+### 2017 speed for updated script:
+
+![2017 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
+
+### 2018 speed for updated script:
+
+![2018 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
+
+
+
+
+
 
 
