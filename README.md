@@ -36,7 +36,7 @@ This is just the abreviation of the company name, and is used to save space.
 
 #### 2: The Total Daily Volume
 
-This is a sum of the number of bought & sold shares for the 252 trading days on the market. It is only (very) indirectly related to the actual stock price. The volume is merely an indicator of market activity. As you can see in the first screenshot, the stocks with the highest trading volumes weren't necessarily the best performing. 
+This is a sum of the number of bought & sold shares for the 252 trading days on the market. It is only (*very*) indirectly related to the actual stock price. The volume is merely an indicator of market activity. As you can see in the first screenshot, the stocks with the highest trading volumes weren't necessarily the best performing. 
 
 ![daily return example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/total%20daily%20volume.png)
 
