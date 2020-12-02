@@ -20,5 +20,10 @@ First glance tells us a few things.
 
 - **2017 was a pretty good year for these twelve**
 - **2018 was a pretty *bad* year for these twelve**
-- **Enphase Energry Inc. (ENPH) has the strongest performance**
+- **Enphase Energry Inc. (ENPH) had the strongest performance**
 
+---
+
+### Stock Performance - The Table Itself
+
+This consists of three columns (the ticker, the total daily volume, and the YoY return). These three values are then shown for all 12 green stocks in question, giving us a table of 36 cells. 
