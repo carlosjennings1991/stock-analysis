@@ -28,15 +28,20 @@ First glance tells us a few things.
 
 This consists of three columns (the ticker, the total daily volume, and the YoY return). These three values are then shown for all 12 green stocks in question, giving us a table of 36 cells. Let's go over each item in detail. 
 
-#### The Ticker
+#### 1: The Ticker
 
 This is just the abreviation of the company name, and is used to save space. 
 
 ![ticker example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/ticker%20example.png)
 
-#### The Total Daily Volume
+#### 2: The Total Daily Volume
 
 This is a sum of the number of bought & sold shares for the 252 trading days on the market. It is only (very) indirectly related to the actual stock price. The volume is merely an indicator of market activity. As you can see in the first screenshot, the stocks with the highest trading volumes weren't necessarily the best performing. 
 
 ![daily return example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/total%20daily%20volume.png)
 
+#### 3: The YoY Return (just "Return" in the table)
+
+This is the difference in the closing price for the stock on the last day of trading for the year in relation to the closing price of the stock on the first day of trading for the year ((last price / first price) - 1)). 
+
+![YoY Return example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/YoY%20return.png)
