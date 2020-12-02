@@ -57,6 +57,7 @@ The initial script, found here - [original_script](https://github.com/carlosjenn
 
 Given readability is very important in coding, this can't be understated. Conceptually the code does this. 
 
+- Ask the user which year to run the analysis
 - Create an array of all the ticker indexes
 - Create an outer loop (one for each of the 12 tickers)
 - Create an inner loop, which updates the total volume, starting price and ending price for each ticker. 
@@ -64,3 +65,11 @@ Given readability is very important in coding, this can't be understated. Concep
 - Print the three values for each ticker
 - Exit the outer loop
 - Format the cells (red for negative return, green for positive return)
+
+As for performance, the script does it pretty quickly. 
+
+2017 speed: 
+
+![2017 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_Original_Code_2017.png)
+
+
