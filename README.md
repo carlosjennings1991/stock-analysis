@@ -12,6 +12,13 @@ The excel file & VBA scripts can be found here - [Green Stock Analysis](https://
 
 ## Stock Performance
 
-Turns out 2017 was a pretty good year for these 12, and 2018? - Not so much.
+Here are those two years shown side by side
 
 ![stocks from both years](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/Stocks_2017_and_2018.png)
+
+First glance tells us a few things. 
+
+- 2017 was a pretty good year for these twelve
+- 2018 was a pretty *bad* year for these twelve
+- Enphase Energry Inc. (ENPH) has the strongest performance
+
