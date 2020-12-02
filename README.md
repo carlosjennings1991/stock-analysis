@@ -54,3 +54,13 @@ The initial script, found here - [original_script](https://github.com/carlosjenn
 
 - It gets the job done
 - It's easy to read
+
+Given readability is very important in coding, this can't be understated. Conceptually the code does this. 
+
+- Create an array of all the ticker indexes
+- Create an outer loop (one for each of the 12 tickers)
+- Create an inner loop, which updates the total volume, starting price and ending price for each ticker. 
+- Exit the inner loop
+- Print the three values for each ticker
+- Exit the outer loop
+- Format the cells (red for negative return, green for positive return)
