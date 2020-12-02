@@ -90,7 +90,11 @@ The updated script, found here - [modified script](https://github.com/carlosjenn
 
 ![2018 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-The updated script processes everything much faster, roughly 3x as fast as the original. 
+The updated script processes everything much faster, roughly 5x as fast as the original. 
+
+---
+
+
 
 
 
