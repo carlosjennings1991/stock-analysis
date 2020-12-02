@@ -97,6 +97,7 @@ The updated script processes everything much faster, roughly 5x as fast as the o
 ## Conclusion
 
 The two scripts accomplish their goal, to showcase and format the 12 stocks for two years, and they both do it quickly. However, each has their pros and cons. 
+Furthermore, editing (refactoring) code yields mixed results. One one hand, you can improve the code, make it perform better, more elegant, easier to scale. On the other hand, editing code gets messy quickly. A tangled knot of comments and half-finished code can emerge. Fortunately, even the refactored code isn't that confusing to read.
 
 ### Conclusion - Original Script
 
