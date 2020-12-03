@@ -111,7 +111,7 @@ Furthermore, editing (refactoring) code yields mixed results. One one hand, you 
 - Pro: It gets the job done
 - Pro: It's very quick
 - Pro: It would probably perform well with a much larger data set
-- Con: It's more difficult to read 
+- Con: It's more difficult to read
 
 
 
