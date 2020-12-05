@@ -1,6 +1,6 @@
 # Stock Analysis
 
-In this analysis, 12 different green stocks are analyzed for years 2017 and 2018. Besides measuring there performance YoY and trading volumes, this analysis includes a series of scripts to format, clear, and toggle the data by year.
+In this analysis, 12 different green stocks are analyzed for years 2017 and 2018. Besides measuring their performance YoY and trading volumes, this analysis includes a series of scripts to format, clear, and toggle the data by year.
 
 While seeing the stock data is interesting, the main challenge was to create a script that would ask the user which year he or she would want the analysis performed on. The script (or "macro" in Excel parlance) that was ultimately produced could work for any year, assuming the additional years are formatted the way 2017 and 2018 are. 
 
@@ -36,13 +36,13 @@ This is just the abreviation of the company name, and is used to save space.
 
 #### 2: The Total Daily Volume
 
-This is a sum of the number of bought & sold shares for the 252 trading days on the market. It is only (*very*) indirectly related to the actual stock price. The volume is merely an indicator of market activity. As you can see in the first screenshot, the stocks with the highest trading volumes weren't necessarily the best performing. 
+This is a sum of the number of bought & sold shares for the 251 trading days on the market. It is only indirectly related to the actual stock price. The volume is merely an indicator of market activity. As you can see in the first screenshot, the stocks with the highest trading volumes weren't necessarily the best performing. 
 
 ![daily return example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/total%20daily%20volume.png)
 
 #### 3: The YoY Return (just "Return" in the table)
 
-This is the difference in the closing price for the stock on the last day of trading for the year in relation to the closing price of the stock on the first day of trading for the year ((last price / first price) - 1)). 
+This measures how the stock has performed over the course of the year. The formuala that measures this value is ((last price / first price) - 1)). 
 
 ![YoY Return example](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/YoY%20return.png)
 
@@ -90,14 +90,14 @@ The updated script, found here - [modified script](https://github.com/carlosjenn
 
 ![2018 speed](https://github.com/carlosjennings1991/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
 
-The updated script processes everything much faster, roughly 5x as fast as the original. However, the updated code is longer and *more difficult to read*, which can frustrate junior developers and makes transferring the code to someone else more difficult.
+The updated script processes everything much faster, roughly 5x as fast as the original. However, the updated code is longer and more difficult to read, which can frustrate junior developers and makes transferring the code to someone else more difficult.
 
 ---
 
 ## Conclusion
 
 The two scripts accomplish their goal, to showcase and format the 12 stocks for two years, and they both do it quickly. However, each has their pros and cons. 
-Furthermore, editing (refactoring) code yields mixed results. One one hand, you can improve the code, make it perform better, more elegant, easier to scale. On the other hand, editing code gets messy quickly. A tangled knot of comments and half-finished code can emerge. Fortunately, even the refactored code isn't that confusing to read.
+Furthermore, editing (refactoring) code yields mixed results. One one hand, you can improve the code, make it perform better, more elegant, and easier to scale. On the other hand, editing code gets messy quickly. A tangled knot of comments and half-finished code can emerge. Fortunately, comments above each step in the code makes the legibility for the refactored code much easier.
 
 ### Conclusion - Original Script
 
